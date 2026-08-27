@@ -6,9 +6,9 @@ Calculadora de 4 bits descrita en Verilog a nivel de compuertas, implementada
 en una FPGA Lattice iCE40 HX1K (Nandland Go Board).
 
 ## Integrantes
--
--
--
+- Felix Svensson
+- Juan Pablo Saavedra
+- Martin Heiremans
 
 ## Estructura
 - `src/` — módulos Verilog del diseño
