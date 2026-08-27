@@ -80,5 +80,8 @@ initial begin
              $time, clk, execute, use_prev,
              op1, op2_ext, op, result);
 end
-
+initial begin
+    $dumpfile("calculator_core.vcd");
+    $dumpvars(0, calculator_core_tb);
+end
 endmodule
