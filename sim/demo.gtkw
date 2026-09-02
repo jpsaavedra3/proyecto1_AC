@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v4.0.0-prealpha (132a086) (w)1999-2022 BSI
+[*] Wed Sep  2 15:42:32 2026
+[*]
+[dumpfile] "/home/jp/ArqC/proyecto1/build/demo.vcd"
+[dumpfile_mtime] "Wed Sep  2 15:25:08 2026"
+[dumpfile_size] 15295
+[savefile] "/home/jp/ArqC/proyecto1/sim/demo.gtkw"
+[timestart] 0
+[size] 1427 600
+[pos] -1 -1
+*-17.000000 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[sst_width] 297
+[signals_width] 123
+[sst_expanded] 1
+[sst_vpaned_height] 149
+@24
+demo_tb.op1[3:0]
+demo_tb.op2[3:0]
+@28
+demo_tb.op[2:0]
+@421
+demo_tb.resultado[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
