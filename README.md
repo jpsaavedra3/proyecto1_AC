@@ -27,7 +27,6 @@ Otros testbenches disponibles:
 iverilog -g2012 -Wall -s alu4_tb -o build/t1 src/*.v sim/alu4_tb.v && vvp build/t1
 iverilog -g2012 -Wall -s calculator_tb -o build/t2 src/*.v sim/calculator_tb.v && vvp build/t2
 iverilog -g2012 -Wall -s debouncer_tb -o build/t3 src/*.v sim/debouncer_tb.v && vvp build/t3
-iverilog -g2012 -Wall -s calculator_top_tb -o build/t4 src/*.v sim/calculator_top_tb.v && vvp build/t4
 ```
 
 | Testbench | Qué prueba |
@@ -35,7 +34,6 @@ iverilog -g2012 -Wall -s calculator_top_tb -o build/t4 src/*.v sim/calculator_to
 | `alu4_tb` | Las 6 operaciones, 1536 casos |
 | `calculator_tb` | Flujo completo con botones |
 | `debouncer_tb` | Filtro de rebotes |
-| `calculator_top_tb` | Sistema completo (~2 min) |
 
 ## Ver las formas de onda
 
