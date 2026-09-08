@@ -2,12 +2,12 @@
 # Nandland Go Board - iCE40 HX1K VQ100
 # ==========================================
 
-# Clock 25 MHz
+# Reloj 25 MHz
 set_io i_Clk 15
 
 
 # ==========================================
-# Push Buttons
+# Push Botones
 # ==========================================
 
 # SW1 - superior izquierdo - incrementar
